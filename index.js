@@ -621,5 +621,5 @@ bot.on("guildMemberRemove", member => {
 
 });
 
-bot.login(${{secrets.TOKEN}}
+bot.login(env.env.TOKEN}
 );
