@@ -5,6 +5,7 @@ const config = require('./config.json');
 const rolemenu = require('./rolemenu.json');
 const fs = require('fs');
 bot.commands = new Collection();
+const env = require("./.github/workflows/ci.yml");
 
 
 const commandFiles = fs.readdirSync('./commands/').filter(f => f.endsWith('.js'));
