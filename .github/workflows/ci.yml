@@ -10,7 +10,7 @@ jobs:
     display:
       runs-on: ubuntu-latest
       env:
-        TOKEN: ${{ secrets[env.SECRET_NAME] }}
+        TOKEN: ${{ secrets[secrets.SECRET_NAME] }}
 
       steps:
         - name: Display custom environment variables
