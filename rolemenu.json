@@ -1,0 +1,88 @@
+{
+    "gif": {
+        "sexe": "https://media.giphy.com/media/hTgVPGckBLuKhJJbXV/giphy.gif",
+        "orientation": "https://media.giphy.com/media/e7TPMFCD4dNs8pgaqe/giphy.gif",
+        "age": "https://media.giphy.com/media/4KDCRevVHHAlWnFJ2Y/giphy.gif",
+        "situation": "https://media.giphy.com/media/CHNyIQIcAbEZrYLKvj/giphy.gif",
+        "mp": "https://media.giphy.com/media/9N78krYyk0JM8kKYgR/giphy.gif",
+        "couleurs": "https://media.giphy.com/media/j8iOdLmP5LMUH8HOKm/giphy.gif",
+        "ping": "https://media.giphy.com/media/fL7HmPyuEcNC7MZArU/giphy.gif",
+        "roleNsfw": "https://www.astuces-aide-informatique.info/wp-content/uploads/2018/07/navigation-privee-chrome.jpg",
+        "jeux": ""
+    },
+    "idRoles": {
+        "autres": {
+            "reglement": "848144407382851595",
+            "reglementNsfw": "848192938155442186"
+        },
+        "sexe": {
+            "nonRenseigne": "970342998661537882",
+            "homme": "848167768053907476",
+            "femme": "848168056428822528",
+            "autre": "875834164723740712"
+        },
+        "orientation": {
+            "nonRenseigne": "970342988851052574",
+            "heterosexuel": "848170292151844895",
+            "bisexuel": "848171096599560222",
+            "pansexuel": "848170884479844352",
+            "homosexuel": "848170418175082507"
+        },
+        "age": {
+            "nonRenseigne": "970342641663361074",
+            "mineur": "848168206069530665",
+            "majeur1": "848168409425903656",
+            "majeur2": "848168522521509888",
+            "majeur3": "848168670160617472"
+        },
+        "situation": {
+            "nonRenseigne": "970342992516890695",
+            "celibataire": "848169087880527873",
+            "couple": "848168934782795796",
+            "complique": "881160090445570048",
+            "crush": "891503818532065340"
+        },
+        "mp": {
+            "nonRenseigne": "970342995662610442",
+            "ouvert": "848171776525860875",
+            "demande": "848171563093065748",
+            "ferme": "848171779796238366"
+        },
+        "couleurs": {
+            "nonRenseigne": "970615105001783336",
+            "noir": "855384231404371979",
+            "blanc": "855384383849365524",
+            "rouge": "855384481161936906",
+            "bordeaux": "942536648284078090",
+            "bleu": "855384579825467402",
+            "blueKiss": "938084626939932703",
+            "blueYu": "969931685942673488",
+            "turquoise": "855385330998575134",
+            "rose": "855384709235081258",
+            "roseFonce": "875803109610356736",
+            "jaune": "855384844166758420",
+            "vert": "855384917730787328",
+            "orange": "855385013717172245",
+            "violet": "855385240050597938",
+            "mauve": "874712309220667493",
+            "beige": "875803127629119509"
+        },
+        "ping": {
+            "aucun": "970629550516088912",
+            "annonce": "848186204734095390",
+            "evenement": "848184268965937213",
+            "vocal": "848184974204076102",
+            "partenariat": "856473399735877643",
+            "sondage": "874760304578400266",
+            "likeOrDislike": "874759674346491925",
+            "anniv": "874758893081854063",
+            "pipelette": "876210816813256764",
+            "creation": "925495811113103431",
+            "jeux": "903735123235721226"
+        },
+        "nsfw": {
+            "nsfwAcces": "848192938155442186",
+            "sondageNsfw": "897833968391553094"
+        }
+    }
+}

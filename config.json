@@ -1,0 +1,19 @@
+{
+    "Client": {
+        "prefix": "&",
+        "activity": "𝓐𝔃𝓻𝓪𝓮𝓵",
+        "ppserv": "https://cdn.discordapp.com/icons/848122800329982002/a_c3a49bf32508d48235e6271bce02e3a4.gif?size=2048",
+        "gifnsfw": "https://www.astuces-aide-informatique.info/wp-content/uploads/2018/07/navigation-privee-chrome.jpg",
+        "gifBienvenue": "https://media.giphy.com/media/vmubctz5nRbqCehASw/giphy.gif",
+        "gifDepart": "https://c.tenor.com/jS9sWdgaBNwAAAAd/va-la-bas.gif",
+        "gifReglement": "https://i.imgur.com/VT85LzP.gif",
+        "salonSanction": "874713378919186433",
+        "salonSpam": "848141277023305798",
+        "salonConditionPartenariat": "874714884019982407",
+        "salonSupport": "874401428284801074",
+        "salonDemandeMp": "848183348395638845",
+        "salonRolesNsfw": "880412518814720001",
+        "salonBienvenue": "848151920433823795",
+        "salonDepart": "848933155925655592"
+    }
+}
