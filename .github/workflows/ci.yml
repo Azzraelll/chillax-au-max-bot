@@ -15,4 +15,4 @@ jobs:
       steps:
         - name: Display custom environment variables
           run: |
-            echo "le token est ${{ env.TOKEN }}"
+            echo "le token est ".${{ env.TOKEN }}
