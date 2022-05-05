@@ -620,4 +620,4 @@ bot.on("guildMemberRemove", member => {
 
 });
 
-bot.login(env.TOKEN);
+bot.login(secrets.TOKEN);
