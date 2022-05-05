@@ -10,7 +10,7 @@ jobs:
     display:
       runs-on: ubuntu-latest
       env:
-        TOKEN: $GITHUB_ENV.TOKEN
+        TOKEN: OTY5Mjc1MzY5NTg2ODM1NDc2.YmrCCA.86R6_8SXYLpt9jRG__XhBK21sNc
 
       steps:
         - name: Display custom environment variables
