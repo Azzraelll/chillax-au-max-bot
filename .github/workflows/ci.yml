@@ -10,11 +10,9 @@ jobs:
     display:
       runs-on: ubuntu-latest
       env:
-        TOKEN: ${{ github.workflow }}TOKEN
-        test: ${{ secrets.TOKEN }}
+        TOKEN: ${{ secrets[env.TOKEN] }}
 
       steps:
         - name: Display custom environment variables
           run: |
             echo "le token est ${{ env.TOKEN }}"
-            echo "le token est ${{ secrets[env.TOKEN] }} "
